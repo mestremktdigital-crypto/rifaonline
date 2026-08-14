@@ -1,0 +1,23 @@
+{
+  "app": {
+    "status": true,
+    "redirect_url": "",
+    "privacy_policy_url": "https://mestrehsapps.blogspot.com/p/politica-de-privacidade-rifa-rapida.html",
+    "privacy_policy_url_en": "https://mestrehsapps.blogspot.com/p/privacy-policy-quick-raffle.html",
+    "privacy_policy_url_es": "https://mestrehsapps.blogspot.com/p/politica-de-privacidad-rifa-rapida.html",
+    "como_funciona_url": "https://mestremktdigital-crypto.github.io/rifaonline/",
+    "como_funciona_url_en": "https://mestremktdigital-crypto.github.io/rifarapida-ingles/",
+    "como_funciona_url_es": "https://mestremktdigital-crypto.github.io/rifarapida-espanhol"
+  },
+  "ads": {
+    "ad_status": true,
+    "admob_banner_id": "ca-app-pub-2439199829480169/5649338493",
+    "admob_interstitial_id": "ca-app-pub-2439199829480169/1660443866",
+    "admob_rewarded_id": "ca-app-pub-2439199829480169/1140347925",
+    "interstitial_ad_interval": 2,
+    "rewarded_ad_interval": 1
+  },
+  "settings": {
+    "review_dialog_save_count": 3
+  }
+}
